@@ -10,7 +10,7 @@ Malformed rows are discarded during processing. The program reports how many row
 
 ## Usage
 
-python final_project.py input.csv output.csv
+python project.py input.csv output.csv
 
 - Exactly two user-specified arguments are required
 - Both input and output files must have a '.csv' extension (case-insensitive)
